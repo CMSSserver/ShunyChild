@@ -1,2 +1,2 @@
 # ShunyChild
-This Pulgins can use in Minecraft server 1.12.2
+模仿开源插件……
